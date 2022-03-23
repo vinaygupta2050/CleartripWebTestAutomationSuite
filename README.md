@@ -1,4 +1,4 @@
-# Happeo App Test Automation Framework
+# Cleartrip App Test Automation Framework
 
 ## Getting Started
 
