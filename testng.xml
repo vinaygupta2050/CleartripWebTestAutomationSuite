@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]" verbose="2">
+    <listeners>
+        <listener class-name="com.cleartrip.listeners.InvocationListener"></listener>
+    </listeners>
+    <test name="FrameworkTest">
+        <packages>
+            <package name="com.cleartrip.tests"></package>
+        </packages>
+    </test> <!-- Default test(failed) -->
+</suite>
